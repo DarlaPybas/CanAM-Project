@@ -28,3 +28,42 @@ div{
 	background-color: #ddd;
 	color: black;
   }
+#pic1{
+	background-image: url("https://coolwallpapers.me/th700/6001822-california-trees-usa-yosemite-national-park-usa-yosemite.jpg");
+}
+.image-card{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 290px;
+	height:270px;
+}
+.image-card p{
+	font-family: Papyrus;
+	color: white;
+}
+#pic2{
+	background-image: url("https://coolwallpapers.me/th700/5282538-lake-nature-gloomy-mountain-landscape-water-dark-forest-tree-snow-fog-blue-river-forset-forest-lake-mountain-lake-freedom-rain-canada-creative-commons-images.jpg");
+}
+#pic3{
+	background-image: url("https://coolwallpapers.me/th700/3093910-adventure_bad-weather_clouds_cloudy_cold_dark_dark-clouds_dark-sky_dawn_earth_explore_fog_foggy_forest_landscape_light_mountain_mountains_nikon_outdoor_pines_sky_snow_sorrow_stormy_trail_vintage_.jpg");
+}
+.column {
+	float: left;
+	width: 33.33%;
+  }
+#main{
+	background-image: url("https://i.pinimg.com/736x/f5/10/ce/f510cee47de52c243b245ed921f695a7.jpg");
+}
+.main-card{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 900px;
+	height:450px;
+}
+.main-card p{
+	font-family: Garamond;
+	font-size: xx-large;
+	color: #ddd;
+}
